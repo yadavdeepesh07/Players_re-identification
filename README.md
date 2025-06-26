@@ -28,7 +28,13 @@ This project implements a computer vision pipeline for tracking and re-identifyi
 ├── docs/
 `
 
- 
+## Step 1: Download ing Pre-trained Models from given link 
+
+ # Link : https://drive.google.com/file/d/1-5fOSHOSB9UXyP_enOoZNAMScrePVcMD/view
+
+## Step 2:  paste the model to the models folder 
+
+## Step 3 :  now replace the model path in the yolo_detector.py file with the path of the model you downloaded
 
 ## Setup
 
